@@ -1,14 +1,13 @@
-.App .container {
-  text-align: center;
-  border: 1px solid blueviolet;
-  padding: 15px;
+.App {
+  background: #cba8f7;
 }
 
 .App h1 {
   text-align: center;
+  font-size: 65px;
   font-family: monospace;
-  font-size: 55px;
-  font-weight: bolder;
+  font-weight: bold;
+  padding: 20px;
 }
 
 .App-footer {

@@ -9,7 +9,7 @@ function App() {
           <h1>Lana's Word Lookup 🔍</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="poetry" />
         </main>
         <footer className="App-footer">Coded with 🤘 by Lana</footer>
       </div>
