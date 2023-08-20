@@ -1,5 +1,10 @@
-.App {
+body {
   background: #cba8f7;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .App h1 {
